@@ -1,0 +1,15 @@
+DEBUGGING TECHNIQUES
+Check the console using ctrl shift J 
+adjust the coordinates, position, dimensions, etc.
+Check for typing errors
+Mispelling of errors and functions
+Incorrect use of functions
+Using variables outside scope                     
+
+HOW TO RESOLVE THE ISSUES
+Write console.log to print our code to check if it is been executing
+Comment few codes
+Write code in a formatted and organised manner
+Check variable names
+Add files to index.html
+Check punctuations and capitals
